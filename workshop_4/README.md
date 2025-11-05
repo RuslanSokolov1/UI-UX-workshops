@@ -17,7 +17,7 @@ https://www.figma.com/design/Pt7vBmzsRd9xC7jMg2NO0v/Untitled?node-id=0-1&m=dev&t
 <img width="760" height="703" alt="image" src="https://github.com/user-attachments/assets/378c88dc-f01b-4268-9fea-3d780c6689a1" />
 
 #### **Кінцевий результат:**
-![work](.png)
+![work](p4.png)
 
 #### **Посилання на роботу:**
 https://www.figma.com/design/ACHrgtbS1Zji2Pm39fVRTv/Untitled?node-id=0-1&m=dev&t=6kejuvR6kfhPxSiZ-1
