@@ -40,7 +40,7 @@
 ## **Результат роботи**
 Нижче представлено створену мною у Figma товарну картку, оформлену за допомогою Auto Layout:
 
-![work](9-14.png)
+![work](.png)
 
 #### **Посилання на роботу:**
 [Переглянути проєкт у Figma](https://www.figma.com/design/ZY2JWHCfKXIlU5yhErCx2j/Untitled?node-id=0-1&p=f&t=iDUGmK5bWTqKZZLd-0)
