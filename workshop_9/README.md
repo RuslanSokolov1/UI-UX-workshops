@@ -29,7 +29,7 @@
 ![work](9-12.png)
 
 #### **Завершую проект додаванням невеликою характеристикою товару**
-![work](.png)
+![work](9-13.png)
 
 #### **Посилання на роботу:**
 https://www.figma.com/design/ZY2JWHCfKXIlU5yhErCx2j/Untitled?node-id=0-1&p=f&t=rNSDfRRmVA5vc2Km-0
