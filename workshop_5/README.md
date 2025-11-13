@@ -4,24 +4,38 @@
 
 ### Хід роботи:
 
-#### **1. Повторюємо завдання рівня Basic**
-<img width="626" height="423" alt="image" src="https://github.com/user-attachments/assets/f01e5f9b-8aea-47d9-a175-b85643cf0db7" />
+#### **Приклад 1 іконки**
+![exam](.png)
 
 #### **Кінцевий результат:**
-![work](p4-1.png)
+![work](.png)
 
-#### **Посилання на роботу:**
-https://www.figma.com/design/Pt7vBmzsRd9xC7jMg2NO0v/Untitled?node-id=0-1&m=dev&t=2Fer3I7mOQwMoQnQ-1
-
-#### **2. Повторюємо завдання рівня Medium**
-<img width="760" height="703" alt="image" src="https://github.com/user-attachments/assets/378c88dc-f01b-4268-9fea-3d780c6689a1" />
+#### **Приклад 2 іконки**
+![exam](.png)
 
 #### **Кінцевий результат:**
-![work](p4.png)
+![work](.png)
+
+#### **Приклад 3 іконки**
+![exam](.png)
+
+#### **Кінцевий результат:**
+![work](.png)
+
+#### **Приклад 4 іконки**
+![exam](.png)
+
+#### **Кінцевий результат:**
+![work](.png)
+
+#### **Приклад 5 іконки**
+![exam](.png)
+
+#### **Кінцевий результат:**
+![work](.png)
 
 #### **Посилання на роботу:**
-https://www.figma.com/design/ACHrgtbS1Zji2Pm39fVRTv/Untitled?node-id=0-1&m=dev&t=6kejuvR6kfhPxSiZ-1
-
+https://www.figma.com/design/Dp0dtHBIWoW6kZmI5zn5bO/Untitled?node-id=0-1&p=f&t=mkuQYGnv7rhQq9sB-0
 
 ## **ВИСНОВОК:**
-У процесі роботи я опанував основи створення структурованих макетів у Figma, навчився ефективно використовувати фрейми, автолейаути та іконки. Виконав завдання рівнів Basic та Medium.
+Отже на цій практичній роботі я набув навичок використання інстурументу Pen Tool у Figma та набув навичок використання цього інструменту на сервісі The Bezier Game.
