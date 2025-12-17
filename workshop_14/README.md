@@ -18,9 +18,9 @@
 | **Скріншот** | `screenshot.png` | PNG | 145 КБ | Інтерфейс із текстом і пласкими кольорами. |
 | **Графіка** | `ford.jpg` | JPEG | 11,5 КБ | Логотип, мінімальна кількість кольорів. |
 
-![Forest Original](images/forest.jpg)
-![Screenshot Original](images/screenshot.png)
-![Spotify Original](images/spotify.jpg)
+![nature](nature.jpg)
+![Screenshot](screenshot.png)
+![Ford](Ford.jpg)
 
 ## 3. Стиснення без втрати якості (Lossless)
 
@@ -40,18 +40,18 @@ PNG та WebP у режимі Lossless.
 
 | Тип | Формат | Розмір |
 | --- | --- | --- |
-| **Фотографія** | JPEG | 451 КБ |
-| **Фотографія** | PNG | 145 КБ |
-| **Скріншот** | JPEG | 11,5 КБ |
-| **Скріншот** | JPEG | 11,5 КБ |
-| **Графіка** | JPEG | 11,5 КБ |
-| **Графіка** | JPEG | 11,5 КБ |
+| **Фотографія** | PNG | 451 КБ |
+| **Фотографія** | WebP | 145 КБ |
+| **Скріншот** | PNG | 11,5 КБ |
+| **Скріншот** | WebP| 11,5 КБ |
+| **Графіка** | PNG | 11,5 КБ |
+| **Графіка** | WebP | 11,5 КБ |
 
 ## 4. Стиснення з втратою якості (Lossy)
 
 Дослідження форматів MozJPEG, WebP та AVIF на рівнях якості 100%, 75% та 50%.
 
-### 4.1. Фотографія (Forest)
+### 4.1. Фотографія
 
 **MozJPEG (100%, 75%, 50%)**
 ![MozJPEG 100](7.png)
@@ -67,64 +67,103 @@ PNG та WebP у режимі Lossless.
 ![AVIF 100](13.png)
 ![AVIF 75](14.png)
 ![AVIF 50](15.png)
-*Висновок по фото:* AVIF при якості 50% дав розмір **377 KB** при збереженні чудової візуальної якості.
+
 
 ---
 
-### 4.2. Скріншот (Screenshot)
-Для скріншотів формат JPEG (MozJPEG) показав себе найгірше через появу "шуму" навколо тексту.
+### 4.2. Скріншот
 
 **MozJPEG**
-![MozJPEG 100](images/screenshot_MozJPEG_100.png)
-![MozJPEG 75](images/screenshot_MozJPEG_75.png)
-![MozJPEG 50](images/screenshot_MozJPEG_50.png)
+![MozJPEG 100](16.png)
+![MozJPEG 75](17.png)
+![MozJPEG 50](18.png)
 
 **WebP**
-![WebP 100](images/screenshot_WebP_100.png)
-![WebP 75](images/screenshot_WebP_75.png)
-![WebP 50](images/screenshot_WebP_50.png)
+![WebP 100](19.png)
+![WebP 75](20.png)
+![WebP 50](21.png)
 
 **AVIF**
-![AVIF 100](images/screenshot_AVIF_100.png)
-![AVIF 75](images/screenshot_AVIF_75.png)
-![AVIF 50](images/screenshot_AVIF_50.png)
-*Висновок по скріншоту:* AVIF 50% зменшив файл до **56.3 KB**.
+![AVIF 100](22.png)
+![AVIF 75](23.png)
+![AVIF 50](24.png)
 
 ---
 
-### 4.3. Графіка (Spotify)
-Тут було досягнуто найбільшого стиснення.
+### 4.3. Графіка
 
 **MozJPEG**
-![MozJPEG 100](images/spotify_MozJPEG_100.png)
-![MozJPEG 75](images/spotify_MozJPEG_75.png)
-![MozJPEG 50](images/spotify_MozJPEG_50.png)
+![MozJPEG 100](25.png)
+![MozJPEG 75](26.png)
+![MozJPEG 50](27.png)
 
 **WebP**
-![WebP 100](images/spotify_WebP_100.png)
-![WebP 75](images/spotify_WebP_75.png)
-![WebP 50](images/spotify_WebP_50.png)
+![WebP 100](28.png)
+![WebP 75](29.png)
+![WebP 50](30.png)
 
 **AVIF**
-![AVIF 100](images/spotify_AVIF_100.png)
-![AVIF 75](images/spotify_AVIF_75.png)
-![AVIF 50](images/spotify_AVIF_50.png)
-*Висновок по графіці:* Абсолютний рекорд у **AVIF 50% — всього 4.77 KB** (зменшення в 23 рази від оригіналу).
+![AVIF 100](31.png)
+![AVIF 75](32.png)
+![AVIF 50](33.png)
+
+| Тип | Формат | Розмір | Якість |
+| --- | --- | --- | --- |
+| **Фотографія** | MozJPEG | 451 КБ | 100% |
+| **Фотографія** | MozJPEG | 145 КБ | 75% |
+| **Фотографія** | MozJPEG | 451 КБ | 50% |
+| **Фотографія** | WebP | 451 КБ | 100% |
+| **Фотографія** | WebP | 451 КБ | 75% |
+| **Фотографія** | WebP | 451 КБ | 50% |
+| **Фотографія** | AVIF | 451 КБ | 100% |
+| **Фотографія** | AVIF | 451 КБ | 75% |
+| **Фотографія** | AVIF | 451 КБ | 50% |
+| **Скріншот** | MozJPEG | 11,5 КБ | 100% |
+| **Скріншот** | MozJPEG | 11,5 КБ | 75% |
+| **Скріншот** | MozJPEG | 11,5 КБ | 50% |
+| **Скріншот** | WebP | 11,5 КБ | 100% |
+| **Скріншот** | WebP | 11,5 КБ | 75% |
+| **Скріншот** | WebP | 11,5 КБ | 50% |
+| **Скріншот** | AVIF | 11,5 КБ | 100% |
+| **Скріншот** | AVIF | 11,5 КБ | 75% |
+| **Скріншот** | AVIF | 11,5 КБ | 50% |
+| **Графіка** | MozJPEG | 11,5 КБ | 100% |
+| **Графіка** | MozJPEG | 11,5 КБ | 75% |
+| **Графіка** | MozJPEG | 11,5 КБ | 50% |
+| **Графіка** | WebP | 11,5 КБ | 100% |
+| **Графіка** | WebP | 11,5 КБ | 75% |
+| **Графіка** | WebP | 11,5 КБ | 50% |
+| **Графіка** | AVIF | 11,5 КБ | 100% |
+| **Графіка** | AVIF | 11,5 КБ | 50% |
+| **Графіка** | AVIF | 11,5 КБ | 451 |
 
 ## 5. Оптимізація розміру (Resize)
 
 Я адаптував зображення під різні екрани: Web (1200px), Mobile (600px) та Retina (2400px/2x).
 
-### 5.1. Фотографія (Forest)
-![Forest Mobile 600px](images/forest_1200.png)
-![Forest Web 1200px](images/forest_600.png)
-![Forest Retina 2400px](images/forest_2400.png)
-*Результат:* Для мобільної версії (600px) файл займає всього **28 KB**.
+### 5.1. Фотографія
+![1200px](34.png)
+![600px](35.png)
+![2400px](36.png)
 
 ### 5.2. Скріншот
-![Screenshot Mobile 600px](images/screenshot_1200.png)
-![Screenshot Web 1200px](images/screenshot_600.png)
-![Screenshot Retina 2400px](images/screenshot_2400.png)
+![1200px](37.png)
+![600px](38.png)
+![2400px](39.png)
 
 ### 5.3. Графіка (Spotify)
-![Spotify Mobile 600px](images/spotify_1200.png)
+![1200px](40.png)
+![600px](41.png)
+![2400px](42.png)
+
+| Тип | Формат | Розмір | px |
+| --- | --- | --- | --- |
+| **Фотографія** | MozJPEG | 451 КБ | 1200 |
+| **Фотографія** | MozJPEG | 145 КБ | 600 |
+| **Фотографія** | MozJPEG | 451 КБ | 2400 |
+| **Скріншот** | MozJPEG | 11,5 КБ | 1200 |
+| **Скріншот** | MozJPEG | 11,5 КБ | 600 |
+| **Скріншот** | MozJPEG | 11,5 КБ | 2400 |
+| **Графіка** | MozJPEG | 11,5 КБ | 1200 |
+| **Графіка** | MozJPEG | 11,5 КБ | 600 |
+| **Графіка** | MozJPEG | 11,5 КБ | 2400 |
