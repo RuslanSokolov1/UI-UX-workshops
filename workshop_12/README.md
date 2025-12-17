@@ -22,7 +22,7 @@
 ![work](5.png)
 
 #### **2) Перевірка:**
-(https://github.com/user-attachments/assets/d0d1880a-f94c-47bc-8109-f92ab7c8773d)
+https://github.com/user-attachments/assets/d0d1880a-f94c-47bc-8109-f92ab7c8773d
 
 #### **Посилання на роботу:**
 [Переглянути проєкт у Figma](https://www.figma.com/design/mGKZ0eTRwqqzlwySVUjBEv/Untitled?node-id=0-1&m=dev&t=WjaAZrTexBoHm4YW-1)
