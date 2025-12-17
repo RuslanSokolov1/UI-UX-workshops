@@ -17,19 +17,6 @@
 | **Фотографія** | `nature.jpg` | JPEG | 451 КБ | Фото природи, багато деталей і градієнтів. |
 | **Скріншот** | `screenshot.png` | PNG | 145 КБ | Інтерфейс із текстом і пласкими кольорами. |
 | **Графіка** | `ford.jpg` | JPEG | 11,5 КБ | Логотип, мінімальна кількість кольорів. |
-| **Графіка** | `ford.jpg` | JPEG | 11,5 КБ | Логотип, мінімальна кількість кольорів. |
-| **Графіка** | `ford.jpg` | JPEG | 11,5 КБ | Логотип, мінімальна кількість кольорів. |
-| **Графіка** | `ford.jpg` | JPEG | 11,5 КБ | Логотип, мінімальна кількість кольорів. |
-| **Графіка** | `ford.jpg` | JPEG | 11,5 КБ | Логотип, мінімальна кількість кольорів. |
-| **Графіка** | `ford.jpg` | JPEG | 11,5 КБ | Логотип, мінімальна кількість кольорів. |
-| **Графіка** | `ford.jpg` | JPEG | 11,5 КБ | Логотип, мінімальна кількість кольорів. |
-| **Графіка** | `ford.jpg` | JPEG | 11,5 КБ | Логотип, мінімальна кількість кольорів. |
-| **Графіка** | `ford.jpg` | JPEG | 11,5 КБ | Логотип, мінімальна кількість кольорів. |
-| **Графіка** | `ford.jpg` | JPEG | 11,5 КБ | Логотип, мінімальна кількість кольорів. |
-| **Графіка** | `ford.jpg` | JPEG | 11,5 КБ | Логотип, мінімальна кількість кольорів. |
-| **Графіка** | `ford.jpg` | JPEG | 11,5 КБ | Логотип, мінімальна кількість кольорів. |
-| **Графіка** | `ford.jpg` | JPEG | 11,5 КБ | Логотип, мінімальна кількість кольорів. |
-| **Графіка** | `ford.jpg` | JPEG | 11,5 КБ | Логотип, мінімальна кількість кольорів. |
 
 ![Forest Original](images/forest.jpg)
 ![Screenshot Original](images/screenshot.png)
@@ -39,17 +26,17 @@
 
 PNG та WebP у режимі Lossless.  
 
-### 3.1. Фотографія (Ліс)
-![Forest Browser PNG](images/forest_browser_png.png)
-![Forest WebP Lossless](images/forest_WebP.png)
+### 3.1. Фотографія
+![nature](1.png)
+![nature](2.png)
 
 ### 3.2. Скріншот
-![Screenshot Browser PNG](images/screenshot_browser_png.png)
-![Screenshot WebP Lossless](images/screenshot_WebP.png)
+![Screenshot](3.png)
+![Screenshot](4.png)
 
-### 3.3. Графіка (Spotify)
-![Spotify Browser PNG](images/spotify_browser_png.png)
-![Spotify WebP Lossless](images/spotify_WebP.png)
+### 3.3. Графіка
+![Ford](5.png)
+![Ford](6.png)
 
 | Тип | Формат | Розмір |
 | --- | --- | --- |
@@ -65,22 +52,21 @@ PNG та WebP у режимі Lossless.
 Дослідження форматів MozJPEG, WebP та AVIF на рівнях якості 100%, 75% та 50%.
 
 ### 4.1. Фотографія (Forest)
-Найкращий результат показав **AVIF**.
 
 **MozJPEG (100%, 75%, 50%)**
-![MozJPEG 100](images/forest_MozJPEG_100.png)
-![MozJPEG 75](images/forest_MozJPEG_75.png)
-![MozJPEG 50](images/forest_MozJPEG_50.png)
+![MozJPEG 100](7.png)
+![MozJPEG 75](8.png)
+![MozJPEG 50](9.png)
 
 **WebP (100%, 75%, 50%)**
-![WebP 100](images/forest_WebP_100.png)
-![WebP 75](images/forest_WebP_75.png)
-![WebP 50](images/forest_WebP_50.png)
+![WebP 100](10.png)
+![WebP 75](11.png)
+![WebP 50](12.png)
 
 **AVIF (100%, 75%, 50%)**
-![AVIF 100](images/forest_AVIF_100.png)
-![AVIF 75](images/forest_AVIF_75.png)
-![AVIF 50](images/forest_AVIF_50.png)
+![AVIF 100](13.png)
+![AVIF 75](14.png)
+![AVIF 50](15.png)
 *Висновок по фото:* AVIF при якості 50% дав розмір **377 KB** при збереженні чудової візуальної якості.
 
 ---
